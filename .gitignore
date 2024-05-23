@@ -11,11 +11,11 @@ accounts/*
 Thumbnails/*
 MediaInfo/*
 Images/*
-rclone/*
+wcl/*
 list_drives.txt
 cookies.txt
 downloads
 bot.session
 user.session
 terabox.txt
-rclone.conf
+wcl.conf
