@@ -1,0 +1,21 @@
+{
+    "name": "Thiru-ML Bot",
+    "description": "Thiru-ML Bot with Heroku Deploy",
+    "keywords": [
+      "telegram"
+    ],
+    "repository": "https://github.com/ThiruXD/Thiru-ML",
+    "stack": "container",
+    "env": {
+        "CONFIG_FILE_URL": {
+            "description": "Config File URL",
+            "required": true
+        }
+    },
+    "formation": {
+        "web": {
+            "quantity": 1,
+            "size": "Basic"
+        }
+    }
+}
