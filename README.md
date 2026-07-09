@@ -2,15 +2,6 @@
 
 # 𝗡𝗼𝘄 𝗧𝗵𝗶𝗿𝘂-𝗠𝗟 𝗶𝘀 𝗛𝗲𝗿𝗼𝗸𝘂 𝗗𝗲𝗽𝗹𝗼𝘆𝗮𝗯𝗹𝗲
 
-<p>
-    <a href="https://github.com/ThiruXD/Thiru-ML">
-      <kbd>
-            <img src="https://telegra.ph/file/de3725a58014b199a959a.jpg" width="550" alt="ThiruEmpire Thum">
-      </kbd>
-    </a>
-</p>
-
-
 ## Deploy On Heroku
 
 [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/ThiruXD/Thiru-ML)
